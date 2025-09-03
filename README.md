@@ -1,1 +1,3 @@
-# tictactoeplan0309
+# Project Repository
+
+This is the initial README file for the project.
